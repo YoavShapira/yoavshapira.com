@@ -1,6 +1,6 @@
 # Hi, and welcome!
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Yoav and Lisa in Yosemite National Park](./images/YoavLisaYosemite.jpg)
 
 I'm a technology leader, serial entrepreneur, advisor, and investor.
 
