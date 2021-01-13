@@ -2,5 +2,5 @@ title: Yoav Shapira's personal site.
 description: How to get in touch and/or follow Yoav Shapira.
 show_downloads: false
 google_analytics: 77051146
-
+favicon: assets/images/favicon/favicon.ico
 theme: jekyll-theme-minimal
